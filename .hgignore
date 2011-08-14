@@ -1,0 +1,11 @@
+syntax: glob
+
+# Eclipse
+.classpath
+.project
+.settings
+
+# classes
+war/WEB-INF/classes
+
+### EOF
